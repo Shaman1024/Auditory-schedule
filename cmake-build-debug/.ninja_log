@@ -1,0 +1,8 @@
+# ninja log v6
+86	3734	7488095175469267	CMakeFiles/Coursework.dir/main.cpp.obj	20a6c3791c8d642e
+3	490	7488097839922631	build.ninja	6a999769a7f6306c
+3735	6472	7488095212014202	Coursework.exe	151bd794384b3fe
+17	6200	7488091736506241	CMakeFiles/Coursework.dir/createBase.cpp.obj	14bbc95dd1561b
+36	3324	7488097911291418	CMakeFiles/Coursework.dir/main.cpp.obj	5a99b7f0665cbe04
+46	11326	7488097911393674	CMakeFiles/Coursework.dir/createBase.cpp.obj	9969a30a04bc5f8d
+11326	13928	7488098024194756	Coursework.exe	e9ed561c2fad5b03

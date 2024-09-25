@@ -1,0 +1,3 @@
+C:/Users/vanya/Учёба/Subjects/КПО/Coursework/cmake-build-debug-mingw/CMakeFiles/Coursework.dir
+C:/Users/vanya/Учёба/Subjects/КПО/Coursework/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/vanya/Учёба/Subjects/КПО/Coursework/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

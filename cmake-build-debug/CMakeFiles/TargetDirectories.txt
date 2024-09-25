@@ -1,0 +1,3 @@
+C:/Users/vanya/Учёба/Subjects/KPO/Coursework/cmake-build-debug/CMakeFiles/Coursework.dir
+C:/Users/vanya/Учёба/Subjects/KPO/Coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vanya/Учёба/Subjects/KPO/Coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
